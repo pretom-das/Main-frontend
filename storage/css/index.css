@@ -434,15 +434,15 @@ canvas {
 }
 
 .dheww1 {
-    background-image: url("/storage/layersvg/layer1.svg");
+    background-image: url("../storage/layersvg/layer1.svg");
 }
 
 .layer2 {
-    background-image: url("/storage/layersvg/layer2.svg");
+    background-image: url("../storage/layersvg/layer2.svg");
 }
 
 .reglayer1 {
-    background-image: url("/storage/layersvg/reglayer.svg");
+    background-image: url("../storage/layersvg/reglayer.svg");
 }
 
 .flip {
